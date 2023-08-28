@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "john@test.com",
+      "phone": "+91 0000000000",
+      "img": ""
+    },
+    {
+      "id": 2,
+      "name": "Shyam",
+      "email": "shyam@test.com",
+      "phone": "+91 0000000000",
+      "img": ""
+    },
+    {
+      "name": "Eswargg",
+      "email": "rest",
+      "phone": "909898998",
+      "id": 3,
+      "img": ""
+    },
+    {
+      "name": "maschendra",
+      "email": "maschi@gmail.com",
+      "phone": "09876543210",
+      "id": 4,
+      "img": ""
+    }
+  ],
+  "imgArray": [
+    {
+      "imageUrl": "",
+      "public_id": "mach_img",
+      "signature": "",
+      "id": 1
+    }
+  ],
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/djovzhknh/image/upload/v1693042098/machId.png",
+      "public_id": "machId",
+      "id": 1
+    }
+  ],
+  "personaldata": [
+    {
+      "name": "Maschendra",
+      "email": "maschi@gmail.com",
+      "phone": "+91 9876543211",
+      "id": 1
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "skill_name": "dotnet",
+      "yoe": 5,
+      "level": "medium"
+    },
+    {
+      "skill_name": "react",
+      "yoe": "1",
+      "level": "beginner",
+      "id": 2
+    },
+    {
+      "skill_name": "sql",
+      "yoe": "3",
+      "level": "medium",
+      "id": 3
+    }
+  ],
+  "experiences": [
+    {
+      "id": 1,
+      "project_name": "uta",
+      "fromYear": 2021,
+      "toYear": 2023,
+      "description": "web backened developer",
+      "location": "Hyderabad",
+      "company": "Deloitte"
+    }
+  ]
+}
